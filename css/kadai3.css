@@ -1,0 +1,23 @@
+h1{
+    color: whitesmoke;
+    background-color:blue;
+    text-align: center;
+}
+
+body{
+    background-image: url(../images/body2.jpeg);
+}
+
+h2{
+    color:firebrick;
+    text-align: center;
+    background-color: aqua;
+}
+
+h3{
+    color:green;
+}
+
+p{
+    color: brown;
+}
