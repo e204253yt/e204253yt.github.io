@@ -1,0 +1,31 @@
+/*bluecolorクラスのものだけ装飾*/
+.bluecolor{
+    color:blue;
+}
+
+h1{
+    font-family: impact;
+    font-size: 60px;
+    background-color:peachpuff;
+    text-align: center;
+}
+
+h1#yamasaki{
+    color:cadetblue;
+    background-color:salmon;
+    text-align: center;
+}
+
+h2{
+    color:red ;
+    background-color:black;
+}
+
+h2.mediumpurplecolor{
+    color:mediumpurple;
+    background-color:skyblue;
+}
+
+body{
+    background-image: url(../images/body2.jpeg);
+}
