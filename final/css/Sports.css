@@ -1,0 +1,112 @@
+div.title{
+    width: 1000px;
+    height:70px;
+    background-color: white;
+    font-size: 50px;
+    font-family: "Impact";
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+body{
+     background-image: url(../images/white_00065.jpg);
+}
+
+div.menu{
+    font-size: 0;
+    width: 1000px;
+    background-color: azure;
+}
+
+div.menu1{
+    width:1000px;
+    height:50px;
+    color:black;
+    background-color: blue;
+    margin-bottom: 20px;
+}
+
+div.menu1item1{
+    display: inline-block;
+    width: 330px;
+    height: 50px;
+    background-color:bisque;
+    font-size: 30px;
+    text-align: center;
+}
+
+div.menu1item2{
+    display: inline-block;
+    width: 340px;
+    height: 50px;
+    background-color: bisque;
+    font-size: 30px;
+    text-align: center;
+}
+
+div.menu1item3{
+    display: inline-block;
+    width: 330px;
+    height: 50px;
+    background-color: bisque;
+    font-size: 30px;
+    text-align: center;
+}
+div.menu2-1{
+    vertical-align: top; 
+    width:1000px;
+    height:400px;
+    margin-bottom: 2px;
+}
+
+div.menu2-1item1{
+    display: block;
+    width: 500px;
+    height: 280px;
+    background-color: black;
+}
+
+div.menu2-1item2{
+    display:block;
+    width: 1000;
+    font-size: 18px;
+    background-color: azure;
+}
+
+
+div.menu2-2{
+    vertical-align: top;
+    width:1000px;
+    height:400px;
+    margin-bottom: 20px;
+}
+
+div.menu2-2item1{
+    display: block;
+    width: 500px;
+    height: 280px;
+    background-color: darkcyan;
+}
+
+div.menu2-2item2{
+    display: block;
+    width: 1000px;
+    font-size: 18px;
+    background-color: azure;
+}
+
+
+div.footer{
+    width:1000px;
+    height:40px;
+    background-color: whitesmoke;
+    font-size: 30px;
+    font-family: "Impact";
+    text-align: right;
+    margin-top: 20px;
+}
+
+div.wrap{
+    width:1000px;
+    margin:0px auto;
+}
